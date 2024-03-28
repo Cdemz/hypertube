@@ -14,7 +14,7 @@
             type="search"
             name=""
             id=""
-            placeholder="hired.."
+            placeholder="sports..."
             class="pro"
           />
 
@@ -31,7 +31,7 @@
           class="w-[14%] h-auto rounded-2xl border-blue-400 text-blue-400 flex gap=2 items-center p-1 border-2 mx-2"
         >
           <q-btn flat dense round icon="account_circle" class="ml-1" />
-          <p class="obj">Hired</p>
+          <p class="obj">Stan</p>
         </div>
         <q-btn flat dense round icon="phone" class="obj" />
       </q-toolbar>
